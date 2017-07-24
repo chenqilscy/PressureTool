@@ -1,0 +1,34 @@
+﻿{
+  "ResultLogPath": "", //D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\bin\Debug
+  "MoTaskInfoes": [
+    {
+      "Method": "httpget",
+      "Url": "https://www.baidu.com/",
+      "LinkNum": 10,
+      "Param": "",
+      "ResultLogPath": ""
+    },
+    {
+      "Method": "httppost_json",
+      "Url": "http://localhost:5000/api/Values/PostJson",
+      "LinkNum": 1,
+      "Param": "{\"Number\": 1,\"Name\": \"张三\"}",
+      "ResultLogPath": ""
+    },
+    {
+      "Method": "httppost_xml",
+      "Url": "http://localhost:5000/api/Values/PostXml",
+      "LinkNum": 1,
+      "Param": "<MoStudent><Number>111</Number><Name>王五</Name></MoStudent>",
+      "ResultLogPath": ""
+    }
+    //,
+    //{
+    //  "Method": "httpget",
+    //  "Url": "https://www.zhihu.com/",
+    //  "LinkNum": 10,
+    //  "Param": "",
+    //  "ResultLogPath": ""
+    //}
+  ]
+}

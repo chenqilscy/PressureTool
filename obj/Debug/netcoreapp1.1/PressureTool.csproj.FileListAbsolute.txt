@@ -1,0 +1,9 @@
+D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\bin\Debug\netcoreapp1.1\PressureTool.deps.json
+D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\bin\Debug\netcoreapp1.1\PressureTool.runtimeconfig.json
+D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\bin\Debug\netcoreapp1.1\PressureTool.runtimeconfig.dev.json
+D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\bin\Debug\netcoreapp1.1\PressureTool.dll
+D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\obj\Debug\netcoreapp1.1\PressureTool.AssemblyInfo.cs
+D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\bin\Debug\netcoreapp1.1\PressureTool.pdb
+D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\obj\Debug\netcoreapp1.1\PressureTool.dll
+D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\obj\Debug\netcoreapp1.1\PressureTool.pdb
+D:\F\学习\vs2017\netcore\Study.AspNetCore\PressureTool\obj\Debug\netcoreapp1.1\PressureTool.csprojResolveAssemblyReference.cache
