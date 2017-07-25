@@ -1,5 +1,7 @@
 # PressureTool
   简介：一个.Net Core写的压力测试，并发请求工具<br/>
+  设计图：<br/>
+  <img src="http://images2015.cnblogs.com/blog/348819/201707/348819-20170725160155427-247583211.png"/><br/>
   请求方式：httpget，httppost<br/>
   数据格式：1. get采用url参数 2. post采用xml或json传参<br/>
   配置文件：PressureTool.json，git中的配置文件已经配置了几个例子，可以直接使用<br>
